@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of William Lenthall, Esquire; Speaker of the Honorable House of Commons. Shewing the grounds and reasons which moved him to absent himselfe from attending the service of the House on Fryday the 30th of July, 1647.</title>
+            <author>Lenthall, William, 1591-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87850</idno>
+            <idno type="STC">Wing L1071</idno>
+            <idno type="STC">Thomason E400_32</idno>
+            <idno type="STC">ESTC R201762</idno>
+            <idno type="EEBO-CITATION">99862262</idno>
+            <idno type="PROQUEST">99862262</idno>
+            <idno type="VID">114415</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87850)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114415)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of William Lenthall, Esquire; Speaker of the Honorable House of Commons. Shewing the grounds and reasons which moved him to absent himselfe from attending the service of the House on Fryday the 30th of July, 1647.</title>
+                  <author>Lenthall, William, 1591-1662.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by M.S. for George Whittington.,</publisher>
+                  <pubPlace>London; :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lenthall, William, 1591-1662 --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons --  Early works to 1800.</term>
+               <term>Apprentices --  England --  London --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114415:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 38 -->
+            <p>A DECLARATION OF <hi>William Lenthall,</hi> Eſquire; SPEAKER OF THE HONO<g ref="char:EOLhyphen"/>RABLE HOUSE OF <hi>COMMONS. SHEWING</hi> The Grounds and Reaſons which moved him to abſent himſelfe from attend<g ref="char:EOLhyphen"/>ing the ſervice of the Houſe on Fryday the 30<hi rend="sup">th</hi> of <hi>July,</hi> 1647.</p>
+            <p>
+               <hi>LONDON;</hi> Printed by <hi>M. S.</hi> for <hi>George Whittington.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:114415:2"/>
+            <!-- PDF PAGE 39 -->
+            <pb n="3" facs="tcp:114415:2"/>
+            <!-- PDF PAGE 39 -->
+            <head>A DECLARATION OF THE SPEAKER OF THE Houſe of COMMONS: Of the Grounds, and Reaſons, which moved him to abſent him<g ref="char:EOLhyphen"/>ſelfe, from attending the ſervice of the HOUSE on Friday the 30. of <hi>July,</hi> 1647.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough it may happily be con<g ref="char:EOLhyphen"/>trary to the expectation of ſome, that I attend not the Service of the Houſe of <hi>Commons,</hi> at this time, as I have conſtantly done, for almoſt ſeven yeares laſt paſt, and yet can it not be reaſonably expected by any,
+<pb n="4" facs="tcp:114415:3"/>
+               <!-- PDF PAGE 40 -->that well conſider the violence offered to both the Houſes of <hi>Parliament,</hi> and to my ſelfe in par<g ref="char:EOLhyphen"/>ticular on Monday; In ſo much that I can ſafely take it upon my conſcience, and ſo I doubt not, may all the Members of both Houſes alſo, that they ſate in continuall feare of their lives, and by terrour thereof were compelled to paſſe ſuch <hi>Votes,</hi> as it pleaſed an unruly multitude to force upon them, which, as I did then openly declare in the Houſe, ſo I cannot but beleeve that they are void, and null, being extorted by force, and violence, and in that manner that they were, and I cannot any longer diſpenſe with my ſelfe, to be an Inſtrument in paſſing ſuch <hi>Votes,</hi> or to give any colour, or ſhadow of Parliamentary Autho<g ref="char:EOLhyphen"/>ritie unto them, which are not the <hi>Votes</hi> of the repreſentative bodie of the Kingdome, but of a tumultuous multitude, as thoſe muſt needs bee accounted, that ſeemed to paſſe the Houſe on monday laſt, and which ſhall paſſe hereafter, un<g ref="char:EOLhyphen"/>till better proviſion be made, for the ſafe and free ſitting of the Houſes of <hi>Parliament,</hi> there be<g ref="char:EOLhyphen"/>ing no effectual courſe taken by the Citie, ſince the laſt adjournment of the Houſes, to prevent the like tumults for the future; no, nor ſo much as a Declaration from them, to ſhew their diſlike thereof. But on the contrarie, it is generally voiced in the Towne, there will be a farre greater confluence of Apprentices, Reformadoes, and others, on Friday, at the <hi>Parliament</hi> doores, and particularly, notice was given to me, that after
+<pb n="5" facs="tcp:114415:3"/>
+               <!-- PDF PAGE 40 -->they had made the Houſe Vote what they plea<g ref="char:EOLhyphen"/>ſed, they would deſtroy me, I had likewiſe infor<g ref="char:EOLhyphen"/>mation given mee, that there would be a great number of Apprentices; of a contrary opinion, and affections to the other, about the <hi>Parliament</hi> doores on Friday morning, which I foreſaw, muſt of neceſſitie cauſe a great combuſtion, and in probabilitie occaſion much bloud ſhed, the preventing of which miſchiefes, together with the conſideration aforeſaid, have weighed more with me then any thing which may concerne my parti<g ref="char:EOLhyphen"/>ticular, and eſpecially having ſerved the Houſe faithfully &amp; deligently, for the ſpace of very neere ſeven years in a free &amp; Parliamentary way of pro<g ref="char:EOLhyphen"/>ceedings; that I might not now be made a ſervant to ſuch a multitude, to transferre upon them the colour of Parliamentary authority, there with all to abuſe and deceive the mindes, and to deſtroy the Lives, Liberties, and eſtates of the people of this Kingdome; and having taken a Solemne Pro<g ref="char:EOLhyphen"/>teſtation and Covenant, in my place and calling to maintaine the Priviledges of <hi>Parliament,</hi> and the Rites and Liberties of the Subjects: I would not now ſatisfie my ſelfe, but by abſenting my ſelf at this time, rather then by my preſence to give any ſhadow, or countenance, of the authority of <hi>Parliament,</hi> to ſuch apparent violations thereof; Neither can the omiſſion of a circumſtance, or ſome formality in the adjournment of the Houſe (when through force and violence it cannot meet and ſit in any ſort as a <hi>Parliament</hi>) be any preju<g ref="char:EOLhyphen"/>dice
+<pb n="6" facs="tcp:114415:4"/>
+               <!-- PDF PAGE 41 -->to the future meeting, and proceedings there<g ref="char:EOLhyphen"/>of, when it may meet and ſit againe as a free <hi>Par<g ref="char:EOLhyphen"/>liament;</hi> It being well known, that nothing can diſſolve this <hi>Parliament,</hi> but an Act of <hi>Parliament.</hi>
+            </p>
+            <p>When a Company of <hi>Apprentices, Reformadoes,</hi> and others, ſhall call the Ordinances of <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> pretended Ordinances, ſhall locke the doores of the Houſes upon them, ſhall ſweare not to let them out till they had paſſed what they plea<g ref="char:EOLhyphen"/>ſed concerning the <hi>Militia</hi> of <hi>London,</hi> and o<g ref="char:EOLhyphen"/>ther things (though the Houſes had immediatly before voted otherwiſe) ſhall threaten the Hou<g ref="char:EOLhyphen"/>ſes in caſe they did not inſtantly ſatisfie their de<g ref="char:EOLhyphen"/>mands, ſhall <hi>knock, without,</hi> and <hi>hollow</hi> continual<g ref="char:EOLhyphen"/>ly at the Parliament doores that the members could not be heard ſpeak or debate, and after that the Houſe of Commons had paſſed a Vote con<g ref="char:EOLhyphen"/>cerning the <hi>Militia</hi> of <hi>London,</hi> and that the Speaker by the voyce had judged the major part to bee for the negative, ſhall not ſuffer the Houſe to be divided, but in a threatening way require thoſe that gave their Votes againſt them, to conſent to them, if they would, when after the Houſe was adjourned, they ſhall by maine force thruſt backe the Speaker a<g ref="char:EOLhyphen"/>gaine into the Houſe, and force the Members in their preſence and ſight (divers of them thruſt<g ref="char:EOLhyphen"/>ing into the Houſe) to vote what they demanded; when they ſhall juſtle, pull, and hale the Speaker all the way he went downe to his Coach, and
+<pb n="7" facs="tcp:114415:4"/>
+               <!-- PDF PAGE 41 -->force him to avoid their violence to betake him<g ref="char:EOLhyphen"/>ſelfe to the next Coach he could get into for re<g ref="char:EOLhyphen"/>fuge, when they ſhall breath forth ſuch bloudy threats againſt the Members as they came forth of the Houſe, and ſince againſt me in particular at the next meeting of the Houſe, (as I am credi<g ref="char:EOLhyphen"/>bly informed) and when there is no appearance, but that they will continue to doe as formerly they have done, or far worſe on Fryday, I could not in diſcharge of my Truſt, Proteſtation, and Covenant, ſit in the Chaire of the Houſe of Com<g ref="char:EOLhyphen"/>mons, whileſt it ſhall be in ſuch a condition. But ſo ſoone as it may ſit againe in freedome, and ſafety, I ſhall be ready to attend the ſervice there<g ref="char:EOLhyphen"/>of: but till then, as I have upon the forementio<g ref="char:EOLhyphen"/>ned grounds fully ſatisfied my owne conſcience, ſo I doubt not but I ſhall give the whole King<g ref="char:EOLhyphen"/>dome (whoſe intereſt is moſt concerned in it) ample ſatisfaction in the neceſſitie of my ab<g ref="char:EOLhyphen"/>ſence.</p>
+            <closer>
+               <signed>
+                  <hi>William Lenthall,</hi> Speaker.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
